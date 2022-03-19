@@ -5,6 +5,7 @@ int x,sum;
 void main(int);
 void main(int x)
 {  
+    printf("Aman/n");
     sum=sum+x;
     printf("\nx=%d sum=%d",x,sum);
     if(x==5)
